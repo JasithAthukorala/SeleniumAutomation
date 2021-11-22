@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="777ca6ae-ab52-49fb-92a6-0ee8f91db669" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../com/guru99/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/guru99/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/guru99/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/guru99/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/guru99/RegisterSuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/guru99/RegisterSuccessPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomerCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomerManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../utils/PropertyFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../utils/TestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../resources/ChromeSetup (1).exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../resources/udynjdtuktuk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../test/java/com/guru99/RegisterNewUserTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../test/java/com/guru99/RegisterNewUserTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../test/java/net/phptravels/CustomerCreationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../test/java/net/phptravels/CustomerCreationTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../test/java/net/phptravels/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../test/resources/config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="21GweVdZnbIE2i3AbbDPJdvIuKt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="777ca6ae-ab52-49fb-92a6-0ee8f91db669" name="Default Changelist" comment="" />
+      <created>1637580829703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637580829703</updated>
+    </task>
+    <servers />
+  </component>
+</project>
